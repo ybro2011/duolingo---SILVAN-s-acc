@@ -1,5 +1,14 @@
 # duolingo
 
+
+
+SILVANS ::::: 
+
+MINE :::::
+
+
+
+
 [![Keep my Duolingo streak](https://github.com/rfoel/duolingo/actions/workflows/streak-keeper.yml/badge.svg?branch=main)](https://github.com/rfoel/duolingo/actions/workflows/streak-keeper.yml)
 
 <img src="duo.svg" width="128px"/>
